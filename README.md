@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi there 👋
+I work as a Web Developer at IBM. I earned a Bachelor Degree in Computer Science on the Silesian University Of Technology and currently I pursue my Master's degree in Computer Science on Gdańsk University of Technology. 💻 Everyday I'm developing my programming skills working in React and TypeScript. 🛰 I'm also intrested in embedded systems nad programming them using C++.
 
-<!--
-**wybieracz/wybieracz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧬 Tech stack
+![My Skills](https://skillicons.dev/icons?i=react,js,ts,html,css,sass,postgres,sequelize,vscode,visualstudio,docker,git,github,c,cpp,arduino&perline=8)
 
-Here are some ideas to get you started:
+## 🎭 Additional information
+- 🔭 I’m currently working on E-Learninig Platform.
+- 🌱 I’m currently learning Next.js.
+- ⚡ Fun fact: I love skydiving which automatically makes me a Cloud Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📲 Contact me
+[![mail](https://img.shields.io/badge/Mail-005FF9?logo=maildotru&logoColor=fff&style=for-the-badge)](mailto:michal.pawlowski@ibm.com)
+[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-pawlowski/)
