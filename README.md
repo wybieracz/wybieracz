@@ -2,7 +2,7 @@
 I work as a Web Developer at IBM. I earned a Bachelor Degree in Computer Science on the Silesian University Of Technology and currently I pursue my Master's degree in Computer Science on Gdańsk University of Technology. 💻 Everyday I'm developing my programming skills working in React and TypeScript. 🛰 I'm also intrested in embedded systems nad programming them using C++.
 
 ## 🧬 Tech stack
-![My Skills](https://skillicons.dev/icons?i=react,js,ts,html,css,sass,postgres,sequelize,vscode,visualstudio,docker,git,github,c,cpp,arduino&perline=8)
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,sass,postgres,sequelize,nodejs,vscode,visualstudio,docker,git,github,c,cpp,arduino&perline=9)
 
 ## 🎭 Additional information
 - 🔭 I’m currently working on E-Learninig Platform.
