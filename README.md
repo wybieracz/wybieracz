@@ -1,5 +1,5 @@
 ## Hi there 👋
-I work as a Full-Stack Developer at IBM. I earned a Master Degree in Computer Science on Gdańsk University of Technology. 💻 Everyday I'm developing my programming skills working in React and TypeScript. 🛰 I'm also intrested in embedded systems nad programming them using C++.
+I work as a Full-Stack Developer at IBM. I earned a Master's Degree in Computer Science from the Gdańsk University of Technology. 💻 Every day, I develop my programming skills, working with React and TypeScript. 🛰 I'm also interested in embedded systems and programming them using C++.
 
 ## 🧬 Tech stack
 ![My Skills](https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,sass,tailwind,sequelize,postgres,nodejs,docker,git,github,vscode,c,cpp,arduino&perline=9)
