@@ -5,5 +5,5 @@ I work as a Software Developer at Sea Machines Robotics. I earned a Master's Deg
 ![My Skills](https://skillicons.dev/icons?i=react,vite,nextjs,svelte,js,ts,html,css,sass,tailwind,jest,redux,figma,sequelize,prisma,postgres,mongodb,nodejs,express,docker,git,c,cpp,arduino&perline=12)
 
 ## 📲 Contact me
-[![mail](https://img.shields.io/badge/Mail-005FF9?logo=maildotru&logoColor=fff&style=for-the-badge)](mailto:michal.pawlowski@ibm.com)
+[![mail](https://img.shields.io/badge/Mail-005FF9?logo=maildotru&logoColor=fff&style=for-the-badge)](mailto:pawlomich@gmail.com)
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-pawlowski/)
